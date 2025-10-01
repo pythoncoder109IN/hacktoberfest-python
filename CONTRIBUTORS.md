@@ -1,5 +1,6 @@
 # Contributors ✨
 
-Thanks to everyone contributing to this repository!  
+Thanks to everyone contributing to this repository!
 
-- [Your Name Here]  
+- [Your Name Here]
+- [Babar Mohiudin Mir]
