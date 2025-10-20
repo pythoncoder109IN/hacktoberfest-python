@@ -2,4 +2,5 @@
 
 Thanks to everyone contributing to this repository!  
 
-- [Your Name Here]  
+- Bishal Biswas (@bishalbiswas123)
+
